@@ -91,3 +91,13 @@ The following packages were added:
   com.unity.timeline@1.6.4
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.7.8
+
+=== Wed Oct 19 10:46:02 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.render-pipelines.high-definition@12.1.0
+  com.unity.render-pipelines.universal@12.1.0
+  com.unity.shadergraph@12.1.0
