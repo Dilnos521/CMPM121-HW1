@@ -1,5 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="Frame" style="height: 52px; width: 159px;">
-        <ui:Button text="Change Camera&#10;" display-tooltip-when-elided="true" name="Button" style="height: 64px; width: 189px; font-size: 20px; -unity-font-style: bold;" />
+    <ui:VisualElement name="Frame" style="height: 68px; width: 193px;">
+        <ui:Button text="Change Camera&#10;" display-tooltip-when-elided="true" name="Button" style="height: 64px; width: 189px; font-size: 20px; -unity-font-style: bold; -unity-text-align: lower-center;" />
     </ui:VisualElement>
+    <ui:Label text="Press L to turn campfire on/off" display-tooltip-when-elided="true" />
 </ui:UXML>
